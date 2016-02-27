@@ -1,5 +1,5 @@
 frase = raw_input()
-print("----")
+print "----"
 for i in range(1,5):
-    print(i, frase)
-print("----")
+    print i, frase
+print "----"

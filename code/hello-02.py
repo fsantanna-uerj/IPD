@@ -1,3 +1,3 @@
 frase = raw_input()
-print("----")
-print(frase)
+print "----"
+print frase
