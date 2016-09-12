@@ -1,1 +1,6 @@
-VimCrypt~01!«ğ/O«{jzw¦ç–|/_¸$4{Êk||!GZo9À¥>á=R~ã5¥+^¸%Şbb¨§°”øıºG`<âìÓ!‚:â›âÇ°Ihƒ‘sè–a‹ı«İù–Ïˆ&[áB4"†ãÙ²¯½sØVˆf
+maior = 0
+for total in range(0,10):
+    n = int(raw_input("valor: "))
+    if n > maior:
+        maior = n
+print "MAIOR: ", maior

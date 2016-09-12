@@ -1,2 +1,6 @@
-VimCrypt~01!°XšöAóÚÄ‰µÔHªÊèr’×Œªw-8tñcªe=‰Õ…=$ÿ
-Øa~,Uvœ¦Êw’„\ýú@¤íÔ¸ƒÚ’ë?/*%M…ÉN¶ýCb¸L¿úÕžØ*hD«ý_¿Üê
+v1 = raw_input("v1 = ")
+v2 = raw_input("v2 = ")
+if v1 > v2:
+    print "maior: ", v1
+else:
+    print(v2)

@@ -1,1 +1,6 @@
-VimCrypt~01!¯‘dÃ”‚R¬‘ÍIR/ù¹ñ}ß1üRk¿fè#.7¡G¨šf¨‰ßIM€±H»}CÎuûğôAæuÿí½`>ZÀq?Â„M¼ı¼ªãÃYšVî¦T%ÿì1âøç)¥[cj¼yÓ«Üqh(* ¸êb²/è.‹ ¾P1ƒGÙ«4áÊØïğƒxø‰ô±~ŸÈ[{ú“3†fPlŞÖPüš%£Æ
+idade = raw_input("Qual a sua idade? ")
+idade = int(idade)
+if (idade >= 18) and (idade <= 67):
+    print "Voce pode doar sangue"
+else:
+    print "Voce nao pode doar sangue"

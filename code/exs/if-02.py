@@ -1,4 +1,13 @@
-VimCrypt~01!°XšöAóÚÄ‰µÔHªÊèr’×Œªw-8tñcªe=‰Õ…=$ÿ
-Øa~,JßÈÌI8PĞÌ¤Y¨pÓ·³ëÉşeµy•Eù‘lğÒFU¯îi­6i_¤`ÏF|+mLÂ)¯åGåÑ ‹|ûì<¬WãV_Nc€Ê'
-|‚ÁìÊ¦aœ“ÈS¿ã®-ñÈŒuğá¯‘Mæ˜ú*Sr3³òÛ5,wÏ0qîB¾—Ñ]XÜ‰fôŠ±HÉhH$“¿”ö:æ,×ğj>¬'hº~ãáÛşIéòCjä–)-­
-.¾9„5%øšº
+v1 = raw_input("v1 = ")
+v2 = raw_input("v2 = ")
+v3 = raw_input("v3 = ")
+if v1 > v2:
+    if v1 > v3:
+        print "maior: ", v1
+    else:
+        print "maior: ", v3
+else:
+    if v2 > v3:
+        print "maior: ", v2
+    else:
+        print "maior: ", v3
