@@ -10,17 +10,17 @@ def pode_dirigir (idade):
     else:
         return False
     
-for i in range(0,100):
+i = 0
+while i < 5:
     idade = input("Qual a sua idade? ")
+    print "Pessoa ", i
 
-    sangue  = pode_doar_sangue(idade)
-    if sangue:
+    if pode_doar_sangue(idade):
         print "Voce pode doar sangue"
     else:
         print "Voce nao pode doar sangue"
 
-    dirigir  = pode_dirigir(idade)
-    if dirigir:
+    if pode_dirigir(idade):
         print "Voce pode dirigir"
     else:
         print "Voce nao pode dirigir"

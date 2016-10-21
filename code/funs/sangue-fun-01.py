@@ -4,6 +4,9 @@ def pode_doar_sangue ():
         print "Voce pode doar sangue"
     else:
         print "Voce nao pode doar sangue"
-    
-for i in range(0,100):
+
+i = 0
+while i < 5:
+    i = i + 1
+    print "Pessoa ", i
     pode_doar_sangue()
