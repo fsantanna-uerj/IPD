@@ -10,16 +10,17 @@ Listas
 
 <https://github.com/fsantanna/IPD/blob/master/oficial/Python/4-Python%20-%20Vetores-expanded.pdf>
 
-1.
+1. .
     - criar uma lista `l1` com os valores *1,2,3,4*
     - exibir a lista
     - exibir o tamanho da lista
     - exibir o 3o elemento da lista (deve exibir o valor *3*)
-2.  
+2.
+
     - criar uma lista `l2` com 100 zeros
     - exibir a lista
     - exibir o tamanho da lista
-3.  
+3.
     - criar uma lista `l3` vazia
     - exibir a lista
     - ler e inserir 2 elementos novos na lista
