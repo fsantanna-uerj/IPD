@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 1: Listas
-=================
+Roteiro 3: Matrizes
+===================
 
 Ao final, enviar o *print screen* da tela de edição e da tela de execução.
 
@@ -14,7 +14,7 @@ Sugestões:
 Listas
 ------
 
-<https://github.com/fsantanna/IPD/blob/master/oficial/Python/4-Python%20-%20Vetores-expanded.pdf>
+<https://github.com/fsantanna/IPD/blob/master/oficial/Python/5-Python%20-%20Matrizes-expanded.pdf>
 
 1. .
     - criar uma lista `l1` com os valores *1,2,3,4*

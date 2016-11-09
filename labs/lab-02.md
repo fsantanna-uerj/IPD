@@ -1,9 +1,15 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 2
-=========
+Roteiro 2: Funções
+==================
 
 Ao final, enviar o *print screen* da tela de edição e da tela de execução.
+
+Sugestões:
+
+- Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
+- Enviar o arquivo para o seu e-mail.
+  **Ao desligar a máquina, todos os arquivos são removidos do computador.**
 
 Funções
 -------
