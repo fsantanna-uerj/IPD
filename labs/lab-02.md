@@ -7,7 +7,7 @@ Ao final, enviar o *print screen* da tela de edição e da tela de execução.
 
 Sugestões:
 
-- Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
+- Fazer todos os itens em um único arquivo, ex., `lab-02.py`.
 - Enviar o arquivo para o seu e-mail.
   **Ao desligar a máquina, todos os arquivos são removidos do computador.**
 
@@ -15,6 +15,8 @@ Funções
 -------
 
 <https://github.com/fsantanna/IPD/blob/master/slides/ipd-06-funs.pdf>
+
+<https://github.com/fsantanna/IPD/blob/master/oficial/Python/6-Python%20-%20Modularizacao-expanded.pdf>
 
 O código a seguir define a função `soma` que recebe dois valores como
 parâmetros e retorna a soma entre eles:

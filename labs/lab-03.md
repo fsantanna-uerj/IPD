@@ -7,7 +7,7 @@ Ao final, enviar o *print screen* da tela de edição e da tela de execução.
 
 Sugestões:
 
-- Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
+- Fazer todos os itens em um único arquivo, ex., `lab-03.py`.
 - Enviar o arquivo para o seu e-mail.
   **Ao desligar a máquina, todos os arquivos são removidos do computador.**
 
@@ -17,37 +17,40 @@ Listas
 <https://github.com/fsantanna/IPD/blob/master/oficial/Python/5-Python%20-%20Matrizes-expanded.pdf>
 
 1. .
-    - criar uma lista `l1` com os valores *1,2,3,4*
-    - exibir a lista
-    - exibir o tamanho da lista
-    - exibir o 3o elemento da lista (deve exibir o valor *3*)
+    - criar uma matriz `m1`, ex.:
+```
+[ 1 2 3
+  4 5 6
+  7 8 9 ]
+```
+    - exibir a matriz
+    - exibir o número de linhas da matriz (assuma que `m1` pode ter diversos formatos).
+    - exibir o número de colunas da matriz
+    - exibir a 3a coluna da 2a linha da matriz (deve exibir o valor *6*)
 2. .
-    - criar uma lista `l2` com 100 zeros
-    - exibir a lista
-    - exibir o tamanho da lista
+    - ler do teclado o número de linhas `l`
+    - criar uma matriz `m2` com `l` linhas e 2 colunas com todos os elementos zerados
+    - exibir a matriz
 3. .
-    - criar uma lista `l3` vazia
-    - exibir a lista
-    - ler do teclado e inserir 2 elementos novos na lista
-    - exibir novamente a lista
+    - ler do teclado o número de linhas `l` e colunas `c`
+    - criar uma matriz `m3` `l` x `c` com todos os elementos zerados
+    - exibir a matriz
+    - (precisa de loops aninhados)
+3. .
+    - criar uma matriz `m3` vazia
+    - ler do teclado o número de linhas `l` e colunas `c`
+    - ler do teclado cada um dos `l` x `c` valores da matriz
+    - exibir a matriz
+    - (precisa de loops aninhados)
 4. .
-    - criar uma lista `l4` vazia
-    - ler do teclado e inserir 10 elementos novos na lista usando
-      `for` ou `while` (*loop*)
-    - exibir a lista
+    - calcular a soma da diagonal principal de `m3` com um loop.
 5.   .
-    - percorrer a lista `l4` com um *loop*
-    - exibir os valores da lista maiores que 5
-6. .
-    - criar uma lista `l6` vazia
-    - percorrer a lista `l4` e guardar os valores maiores que 5 em `l6`
-    - exibir `l6`
-7. .
-    - criar uma lista `l7` vazia
-    - percorrer a lista `l4` e guardar os **índices** dos valores maiores que 5
-      em `l7`
-    - exibir `l7`
-8. .
-    - criar uma lista `l8` vazia
-    - percorrer a lista `l4` e guardar os índices e valores maiores que 5 em `l8`
-    - exibir `l8`
+    - definir a função que calcula a soma da diagonal principal de uma matriz:
+```
+def soma_diagonal (m):
+    <...>   # ???
+
+matriz = [ [1,2], [3,4] ]
+soma = soma_diagonal(matriz)
+print(soma)
+```
