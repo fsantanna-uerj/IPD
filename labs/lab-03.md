@@ -28,23 +28,23 @@ Listas
     - exibir o número de colunas da matriz
     - exibir a 3a coluna da 2a linha da matriz (deve exibir o valor *6*)
 2. .
-    - ler do teclado o número de linhas `l`
     - criar uma matriz `m2` com `l` linhas e 2 colunas com todos os elementos zerados
+    - ler do teclado o número de linhas `l`
     - exibir a matriz
 3. .
-    - ler do teclado o número de linhas `l` e colunas `c`
     - criar uma matriz `m3` `l` x `c` com todos os elementos zerados
+    - ler do teclado o número de linhas `l` e colunas `c`
     - exibir a matriz
-    - (precisa de loops aninhados)
-3. .
-    - criar uma matriz `m3` vazia
+    - (precisa de *loops* aninhados)
+4. .
+    - criar uma matriz `m4` vazia
     - ler do teclado o número de linhas `l` e colunas `c`
     - ler do teclado cada um dos `l` x `c` valores da matriz
     - exibir a matriz
-    - (precisa de loops aninhados)
-4. .
-    - calcular a soma da diagonal principal de `m3` com um loop.
-5.   .
+    - (precisa de *loops* aninhados)
+5. .
+    - calcular a soma da diagonal principal de `m3`
+6.   .
     - definir a função que calcula a soma da diagonal principal de uma matriz:
 ```
 def soma_diagonal (m):
