@@ -17,16 +17,16 @@ Listas
 <https://github.com/fsantanna/IPD/blob/master/oficial/Python/5-Python%20-%20Matrizes-expanded.pdf>
 
 1. .
-    - criar uma matriz `m1` (exemplo abaixo)
+    - criar uma matriz `m1`, ex.:
+    ```
+    | 1 2 3 |
+    | 4 5 6 |
+    | 7 8 9 |
+    ```
     - exibir a matriz
     - exibir o número de linhas da matriz (assuma que `m1` pode ter diversos formatos).
     - exibir o número de colunas da matriz
     - exibir a 3a coluna da 2a linha da matriz (deve exibir o valor *6*)
-```
-| 1 2 3 |
-| 4 5 6 |
-| 7 8 9 |
-```
 2. .
     - criar uma matriz `m2` com `l` linhas e 2 colunas com todos os elementos zerados
     - ler do teclado o número de linhas `l`
