@@ -9,7 +9,7 @@ Sugestões:
 
 - Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
 - Enviar o arquivo para o seu e-mail.
-  **Ao desligar a máquina, todos os arquivos são removidos do computador.**
+  **Ao desligar, todos os arquivos são removidos do computador.**
 
 Listas
 ------
