@@ -23,6 +23,7 @@ Listas
   4 5 6
   7 8 9 ]
 ```
+
     - exibir a matriz
     - exibir o número de linhas da matriz (assuma que `m1` pode ter diversos formatos).
     - exibir o número de colunas da matriz
