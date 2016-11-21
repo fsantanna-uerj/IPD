@@ -1,6 +1,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 3: Strings e Arquivos
+Roteiro 4: Strings e Arquivos
 =============================
 
 Ao final, enviar o *print screen* da tela de edição e da tela de execução.
@@ -14,7 +14,7 @@ Sugestões:
 Listas
 ------
 
-<https://github.com/fsantanna/IPD/blob/master/oficial/Python/string-arquivo-expanded.pdf>
+<https://github.com/fsantanna/IPD/blob/master/slides/ipd-07-strings.pdf>
 
 1. .
     - ler do teclado um número `v1`
