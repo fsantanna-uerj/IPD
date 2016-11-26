@@ -48,5 +48,35 @@ Listas
     - verificar se os nomes possuem somente letras
         - e.g., 'joao1' é um nome inválido
     - usar `isalpha` e `split`
-7. .
-    - CONTINUAÇÃO NA PŔOXIMA AULA
+
+Strings
+-------
+
+1. .
+    - abrir o arquivo *notas.txt* em modo de escrita
+    - escrever no arquivo 3 linhas seguindo o formato *nome nota1 nota2*
+    - fechar o arquivo
+    - verificar se o arquivo *notas.txt* foi escrito corretamente
+2. .
+    - abrir o arquivo *notas.txt* em modo de escrita
+    - ler do teclado, um por vez, o *nome*, *nota1* e *nota2* de um aluno
+    - repetir a leitura até o nome ser a string vazia
+    - escrever no arquivos todos nomes e notas seguindo o mesmo formato do
+      exercício anterior
+    - fechar o arquivo
+    - verificar se o arquivo *notas.txt* foi escrito corretamente
+3. .
+    - abrir o arquivo *notas.txt* em modo de leitura
+    - ler as linhas do arquivo, uma a uma, e exibi-las na tela
+4. .
+    - abrir o arquivo *notas.txt* em modo de leitura
+    - ler as linhas do arquivo, uma a uma, e guardá-las em uma lista
+        - cada elemento da lista é uma outra lista com o formato
+          `[nome, nota1, nota2]`
+            - `nome` deve ser uma string
+            - `nota1` e `nota2` devem ser números
+    - usar a função `split` para separar o nome e as notas
+    - usar a função `int` para converter uma string para um número
+5. .
+    - a partir da lista do exercício anterior, exibir o nome dos alunos com
+      média acima de 5.
