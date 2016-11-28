@@ -11,8 +11,8 @@ Sugestões:
 - Enviar o arquivo para o seu e-mail.
   **Ao desligar, todos os arquivos são removidos do computador.**
 
-Listas
-------
+Strings
+-------
 
 <https://github.com/fsantanna/IPD/blob/master/slides/ipd-07-strings.pdf>
 
@@ -49,8 +49,10 @@ Listas
         - e.g., 'joao1' é um nome inválido
     - usar `isalpha` e `split`
 
-Strings
--------
+Arquivos
+--------
+
+<https://github.com/fsantanna/IPD/blob/master/slides/ipd-08-arquivos.pdf>
 
 1. .
     - abrir o arquivo *notas.txt* em modo de escrita
