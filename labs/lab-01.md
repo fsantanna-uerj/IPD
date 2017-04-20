@@ -10,8 +10,8 @@ Roteiro 1: Introdução
       **Ao desligar, todos os arquivos são removidos do computador.**
     - *Assunto*: IPD, lab-01, João da Silva
     - *Anexos*:
-        - `lab-XX.py`
-        - *print screen* da tela de edição e da tela de execução para cada item
+        - `lab-01.py`
+        - Para cada item, um *print screen* da tela de edição e outro da tela de execução
     - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
 
 ```
@@ -19,11 +19,6 @@ Sim: 1 ao 3
 Não: 4
 Seguem arquivos em anexo...
 ```
-
-Listas
-------
-
-<https://github.com/fsantanna/IPD/blob/master/oficial/Python/4-Python%20-%20Vetores-expanded.pdf>
 
 1. Considere o programa a seguir em português:
 
