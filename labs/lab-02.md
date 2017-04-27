@@ -29,7 +29,7 @@ Faça um programa que leia dois valores e exiba o maior valor lido.
 Um aluno de IPD está indo aos Estados Unidos e quer comprar um celular novo.
 Ele não quer gastar mais do que 1000 reais. Um dólar está custando 3.17 reais.
 Faça um programa que leia o preço de um celular em dólares e, caso seja um bom
-negócio, escreva ``BOM NEGÓCIO''.
+negócio, escreva `BOM NEGÓCIO`.
 
 ## 3.
 
@@ -40,7 +40,7 @@ Ele pretende manter sempre uma velocidade entre 80 e 100 quilômetros por hora
 (kph).
 Sabe-se que que 1 milha tem aproximadamente 1.6 quilômetros.
 Crie um programa que leia a velocidade atual do carro em mph e escreva na tela
-\emph{``ACELERE''}, \emph{``DESACELERE''} ou \emph{``MANTENHA''}.
+`ACELERE`, `DESACELERE` ou `MANTENHA`.
 
 ## 4.
 
