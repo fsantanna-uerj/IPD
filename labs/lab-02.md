@@ -20,18 +20,18 @@ Não: 4
 Seguem arquivos em anexo...
 ```
 
-1.
+## 1.
 
 Faça um programa que leia dois valores e exiba o maior valor lido.
 
-2.
+## 2.
 
 Um aluno de IPD está indo aos Estados Unidos e quer comprar um celular novo.
 Ele não quer gastar mais do que 1000 reais. Um dólar está custando 3.17 reais.
 Faça um programa que leia o preço de um celular em dólares e, caso seja um bom
 negócio, escreva ``BOM NEGÓCIO''.
 
-3.
+## 3.
 
 Agora o aluno alugou um carro.
 Ele está preocupado com o limite de velocidade, mas não entende muito bem
@@ -42,7 +42,7 @@ Sabe-se que que 1 milha tem aproximadamente 1.6 quilômetros.
 Crie um programa que leia a velocidade atual do carro em mph e escreva na tela
 \emph{``ACELERE''}, \emph{``DESACELERE''} ou \emph{``MANTENHA''}.
 
-4.
+## 4.
 
 Considere o programa a seguir:
 
