@@ -27,7 +27,7 @@ Ao final, o programa deve exibir a soma de todos os números lidos.
 
 ## 2.
 
-Faça um programa que leia 10 números e, ao final, exiba o maior.
+Faça um programa que leia 10 números e, ao final, exiba o maior deles.
 
 ## 3.
 
@@ -39,25 +39,6 @@ Ao final, o programa deve escrever o nome dos times com mais e menos pontos até
 o momento.
 
 ## 4.
-
-Considere o programa a seguir:
-
-```
-n1 = input()
-n2 = input()
-q = 0
-while n1 >= n2:
-    q = q + 1
-    n1 = n1 - n2
-r = n1
-print("Resposta", q, r)
-```
-
-- Teste o programa com várias entradas diferentes.
-- Usando a funcionalidade de *Debug -> Debugger*, acompanhe os valores que `q`
-  e `v` assumem durante a execução do programa.
-- O que o programa está calculando?
-  Em outras palavras, qual é o significado de `q` e `r`?
 
 Considere o programa a seguir:
 
@@ -106,6 +87,6 @@ A simulação para a primeira linha já está transcrita a seguir:
 
 ```
 
-O que o programa está fazendo? Descreva ``em bom português'' o significado do
+O que o programa está fazendo? Descreva "em bom português" o significado do
 programa.                          
 Em outras palavras, explique o que o programa está calculando.
