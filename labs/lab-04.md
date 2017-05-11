@@ -34,9 +34,9 @@ Faça um programa que leia um número `N` e calcule o somatório a seguir:
 
 ## 3.
 
-Um jogo de ``Adivinha!'' funciona da seguinte forma:
+Um jogo de *Adivinha!* funciona da seguinte forma:
 
-- Em cada rodada, o ``mestre'' escolhe um número qualquer.
+- Em cada rodada, o *mestre* escolhe um número qualquer.
 - Em seguida, o jogador tenta adivinhar o número.
 - Se o jogador acertar o número do mestre, ele marca 10 pontos.
 - Se o jogador errar com uma diferença de até 2, ele marca 5 pontos.
