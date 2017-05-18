@@ -33,9 +33,6 @@ graus Celcius através da seguinte fórmula:
 Faça um programa que leia a temperatura em Fahreneheit e escreva na tela
 *VÁ DE BLUSA* ou *VÁ DE CASACO LEVE* ou *VÁ DE CASACO PESADO*, dependendo do
 valor lido.
-Faça um programa que leia números continuamente até que seja digitado `0`.
-Ao final, o programa deve exibir o maior valor e quantas vezes esse valor foi
-digitado.
 
 ## 2.
 
@@ -43,7 +40,6 @@ A pizzaria da UERJ está com uma promoção em que a pizza de 8 pedaços está
 saindo a 20 reais.
 Considere que uma pessoa sempre come exatamente 2 pedaços de pizza.
 Faça um programa que leia o número de pessoas em uma mesa e escreva
-
 a) o total de pizzas a pedir,
 b) o total em reais a pagar,
 c) a quantidade de pedaços que serão desperdiçados.
