@@ -15,8 +15,8 @@ Roteiro 6: Listas
     - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
 
 ```
-Sim: 1 ao 3
-Não: 4
+Sim: 1 ao 8
+Não: 9 ao 10
 Seguem arquivos em anexo...
 ```
 
@@ -34,6 +34,8 @@ Listas
     - criar uma lista `L2` com 100 zeros
     - exibir a lista
     - exibir o tamanho da lista
+    - alterar o 8o elemento para `50`
+    - exibir a lista
 3. .
     - criar uma lista `L3` vazia
     - exibir a lista
