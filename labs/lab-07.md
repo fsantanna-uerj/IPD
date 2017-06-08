@@ -15,8 +15,8 @@ Roteiro 7: Listas [2/2]
     - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
 
 ```
-Sim: 1 ao 3
-Não: 4
+Sim: 1 ao 4
+Não: 5
 Seguem arquivos em anexo...
 ```
 
@@ -44,7 +44,7 @@ Listas
             - caso seja `'R'`, remove o último elemento com `L4.pop()`
             - caso seja `'E'`, exibe a lista
             - caso seja `'T'`, termina o programa
-        3. repete o passo `2`
+        3. repete o passo `b`
 5. .
     - criar duas listas `LA` e `LB`
     - criar uma nova lista `LC` com os valores que aparecem em `LA` e em `LB`,
