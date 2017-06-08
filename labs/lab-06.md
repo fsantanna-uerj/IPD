@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 6: Listas
-=================
+Roteiro 6: Listas [1/2]
+=======================
 
 - Fazer todos os itens em um único arquivo, ex., `lab-06.py`.
 - Ao final, enviar um e-mail da seguinte forma:
