@@ -20,7 +20,7 @@ Não: 4 ao 5
 Seguem arquivos em anexo...
 ```
 
-<https://github.com/fsantanna/IPD/blob/master/slides/ipd-07-strings.pdf>
+<https://github.com/fsantanna-uerj/IPD/blob/master/slides/ipd-07-strings.pdf>
 
 1. .
     - ler do teclado um número `v1`

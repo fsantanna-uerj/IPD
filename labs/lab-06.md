@@ -23,7 +23,7 @@ Seguem arquivos em anexo...
 Listas
 ------
 
-<https://github.com/fsantanna/IPD/blob/master/oficial/Python/4-Python%20-%20Vetores-expanded.pdf>
+<https://github.com/fsantanna-uerj/IPD/blob/master/oficial/Python/4-Python%20-%20Vetores-expanded.pdf>
 
 1. .
     - criar uma lista `L1` com os valores *1,2,3,4*

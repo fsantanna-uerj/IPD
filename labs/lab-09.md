@@ -20,9 +20,9 @@ Não: 4
 Seguem arquivos em anexo...
 ```
 
-<https://github.com/fsantanna/IPD/blob/master/slides/ipd-06-funs.pdf>
+<https://github.com/fsantanna-uerj/IPD/blob/master/slides/ipd-06-funs.pdf>
 
-<https://github.com/fsantanna/IPD/blob/master/oficial/Python/6-Python%20-%20Modularizacao-expanded.pdf>
+<https://github.com/fsantanna-uerj/IPD/blob/master/oficial/Python/6-Python%20-%20Modularizacao-expanded.pdf>
 
 O código a seguir define a função `soma` que recebe dois valores como
 parâmetros e retorna a soma entre eles:
