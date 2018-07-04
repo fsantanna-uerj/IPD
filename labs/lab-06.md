@@ -3,6 +3,7 @@
 Roteiro 6: Listas [1/2]
 =======================
 
+<!--
 - Fazer todos os itens em um único arquivo, ex., `lab-06.py`.
 - Ao final, enviar um e-mail da seguinte forma:
     - *Para*: `francisco@ime.uerj.br`
@@ -19,6 +20,7 @@ Sim: 1 ao 8
 Não: 9 ao 10
 Seguem arquivos em anexo...
 ```
+-->
 
 Listas
 ------
@@ -39,26 +41,36 @@ Listas
 3. .
     - criar uma lista `L3` vazia
     - exibir a lista
-    - ler do teclado e inserir 2 elementos novos na lista
-        - `L3.append(x)` insere `x` em `L3`
+    - inserir o valor `100` na lista com o seguinte comando:
+        - `L3.append(100)`
+    - inserir o valor `50` na lista com o seguinte comando:
+        - `L3.append(50)`
+    - exibir a lista
+    - ler do teclado dois valores com `input` e inseri-los na lista usando `L3.append`
     - exibir novamente a lista
 4. .
     - criar uma lista `L4` vazia
-    - ler do teclado e inserir 10 elementos novos na lista usando `for` ou `while`
+    - ler do teclado e inserir 10 elementos novos na lista usando um `while`
     - exibir a lista
 5. .
-    - percorrer a lista `L4` com um *loop*
-    - exibir os valores da lista maiores que 5
+    - manter o exercício `4` do jeito que está (não fazer nenhuma alteração nele)
+    - percorrer a lista `L4` com um `while`
+        - o `i` deve variar de `0` até o tamanho da lista
+        - exibir os valores da lista `L4[i]` maiores que 5
 6. .
+    - manter o exercício `4` do jeito que está
     - criar uma lista `L6` vazia
     - percorrer a lista `L4` e guardar os valores maiores que 5 em `L6`
+        - usar `L6.append`
     - exibir `L6`
 7. .
+    - manter o exercício `4` do jeito que está
     - criar uma lista `L7` vazia
     - percorrer a lista `L4` e guardar os **índices** dos valores maiores que 5
       em `L7`
     - exibir `L7`
 8. .
+    - manter o exercício `4` do jeito que está
     - criar uma lista `L8` vazia
     - percorrer a lista `L4` e guardar os índices e valores maiores que 5 em `L8`
     - exibir `L8`
