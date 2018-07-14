@@ -80,5 +80,6 @@ Listas
     - exibir o número de chamada (índice na lista) dos alunos aprovados com média `>= 7`
 10. .
     - criar duas listas `LA` e `LB`
-    - exibir os valores que aparecem nas duas listas, ou seja, a sua interseção
+    - exibir os valores que aparecem tanto em `LA` quanto em `LB`, ou seja, a
+        sua interseção
         - essa questão necessita de um `while` dentro de um `while`
