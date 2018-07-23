@@ -38,13 +38,17 @@ Seguem arquivos em anexo...
     - concatenar (unir) as duas strings lidas em `s33` separadas por um espaço
     - exibir `s33`
 4. .
-    - ler do teclado a string `s4`
-    - exibir todos os códigos numéricos correspondentes aos caracteres de `s4`
-    - guardar em uma lista `l4` todos os códigos numéricos correspondentes
-      aos caracteres de `s4`
-    - usar a função `ord`
+    - ler do teclado uma string `s4`
+    - ler do teclado um caractere `c4`
+    - exibir a quantidade de vezes que `c4` aparece em `s4`
 5. .
-    - ler do teclado uma lista `l5` de números
-    - converter `l5` para uma string `s5`
-        - cada valor `l5[i]` corresponde ao código numérico de `s5[i]`
+    - ler do teclado a string `s5`
+    - exibir todos os códigos numéricos correspondentes aos caracteres de `s5`
+    - guardar em uma lista `l5` todos os códigos numéricos correspondentes
+      aos caracteres de `s5`
+    - usar a função `ord`
+6. .
+    - ler do teclado uma lista `l6` de números
+    - converter `l6` para uma string `s6`
+        - cada valor `l6[i]` corresponde ao código numérico de `s6[i]`
     - usar a função `chr`
