@@ -40,6 +40,7 @@ Seguem arquivos em anexo...
 4. .
     - ler do teclado uma string `s4`
     - ler do teclado um caractere `c4`
+        - (um caractere nada mais é do que uma string de tamanho 1)
     - exibir a quantidade de vezes que `c4` aparece em `s4`
 5. .
     - ler do teclado a string `s5`
@@ -48,7 +49,7 @@ Seguem arquivos em anexo...
       aos caracteres de `s5`
     - usar a função `ord`
 6. .
-    - ler do teclado uma lista `l6` de números
+    - ler do teclado uma lista `l6` de 5 números
     - converter `l6` para uma string `s6`
         - cada valor `l6[i]` corresponde ao código numérico de `s6[i]`
     - usar a função `chr`
