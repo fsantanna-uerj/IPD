@@ -25,7 +25,7 @@ Seguem arquivos em anexo...
 Listas
 ------
 
-<https://github.com/fsantanna-uerj/FDC/blob/master/slides/ipd-11-matrizes.pdf>
+<https://github.com/fsantanna-uerj/FDC/blob/master/slides/ipd-09-matrizes.pdf>
 
 1. .
     - criar uma matriz `m1`, ex.:
