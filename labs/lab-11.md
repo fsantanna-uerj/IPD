@@ -39,18 +39,18 @@ Listas
     - exibir o número de colunas da matriz
     - exibir a 3a coluna da 2a linha da matriz (deve exibir o valor *6*)
 2. .
-    - criar uma matriz `m2` com `l` linhas e 2 colunas com todos os elementos zerados
-    - ler do teclado o número de linhas `l`
+    - criar uma matriz `m2` com `L` linhas e 2 colunas com todos os elementos zerados
+    - ler do teclado o número de linhas `L`
     - exibir a matriz
 3. .
-    - criar uma matriz `m3` `l` x `c` com todos os elementos zerados
-    - ler do teclado o número de linhas `l` e colunas `c`
+    - criar uma matriz `m3` `L` x `C` com todos os elementos zerados
+    - ler do teclado o número de linhas `L` e colunas `C`
     - exibir a matriz
     - (precisa de *loops* aninhados)
 4. .
     - criar uma matriz `m4` vazia
-    - ler do teclado o número de linhas `l` e colunas `c`
-    - ler do teclado cada um dos `l` x `c` valores da matriz
+    - ler do teclado o número de linhas `L` e colunas `C`
+    - ler do teclado cada um dos `L` x `C` valores da matriz
     - exibir a matriz
     - (precisa de *loops* aninhados)
 5. .

@@ -1,7 +1,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></p>        
 
-Roteiro 8: Strings
-==================
+Roteiro 8: Strings 1/2
+======================
 
 <!--
 - Fazer todos os itens em um único arquivo, ex., `lab-08.py`.
