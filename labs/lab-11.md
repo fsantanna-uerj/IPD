@@ -22,10 +22,9 @@ Seguem arquivos em anexo...
 ```
 -->
 
-Listas
-------
-
 <https://github.com/fsantanna-uerj/IPD/blob/master/slides/ipd-09-matrizes.pdf>
+
+**Nunca use o operador `*` para construir matrizes (usar `append`).**
 
 1. .
     - criar uma matriz `m1`, ex.:
@@ -54,9 +53,9 @@ Listas
     - exibir a matriz
     - (precisa de *loops* aninhados)
 5. .
-    - calcular a soma da diagonal principal de `m3`
+    - calcular a soma da diagonal principal de `m4`
 6. .
-    - exibir a matriz transposta de `m3`
+    - exibir a matriz transposta de `m4`
 
 <!--
 6.   .
