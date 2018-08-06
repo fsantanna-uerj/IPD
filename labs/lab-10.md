@@ -3,6 +3,7 @@
 Roteiro 10: Simulado P2
 =======================
 
+<!--
 - Fazer todos os itens em um único arquivo, ex., `lab-10.py`.
 - Ao final, enviar um e-mail da seguinte forma:
     - *Para*: `francisco@ime.uerj.br`
@@ -19,10 +20,12 @@ Sim: 1 ao 3
 Não: 4
 Seguem arquivos em anexo...
 ```
+-->
 
 ## 1.
 
-A função `random.randrange(0,2)` retorna `0` ou `1` aleatoriamente.
+A operação `random.randrange(0,2)` retorna `0` ou `1` aleatoriamente, toda vez
+que é executada.
 Para usá-la, é preciso importar o módulo `random`:
 
 ```
@@ -32,14 +35,23 @@ print(random.randrange(0,2))        # exibe 0 ou 1
 print(random.randrange(0,2))        # exibe 0 ou 1
 ```
 
-Crie uma função que receba uma lista e retorne uma nova lista onde cada
-elemento da lista original tem 50% de chance de aparecer.
+Crie um programa que, a partir de uma lista `L` qualquer, crie uma nova lista
+`M` onde cada elemento da lista `L` tem 50% de chance de aparecer.
+
+Exemplo:
+
+```
+L = [1,2,3,4,5]
+...         # sua solucao
+print(M)    # M possível [1,3,4]
+```
 
 ## 2.
 
-Crie um programa que leia do teclado uma frase e guarde em uma lista quantas
-vezes cada letra do alfabeto aparece.
-O programa deve escrever o resultado na tela conforme o formato a seguir:
+Crie um programa que leia do teclado uma frase `F` e guarde em uma lista `L`
+quantas vezes cada letra do alfabeto aparece.
+Em seguida, o programa deve exibir o resultado na tela conforme o formato a
+seguir:
 
 ```
 a 13
@@ -52,17 +64,8 @@ Assuma que só aparecem letras minúsculas na frase.
 
 ## 3.
 
-1. Crie uma função que receba um número e verifique se ele é primo.
-2. Crie um programa que leia um número `N` e imprima os `N` primeiros números
-   primos.
+Crie um programa que, a partir de matrizes `M` e `N` quaisquer, calcule a
+matriz produto `P` entre elas.
 
-## 4.
-
-Crie uma função que receba uma lista de listas e retorne uma nova lista com
-todos os elementos de todas as listas.
-
-Exemplo:
-
-```
-f([ [1,2], [-1,-1,-1], [100]) -> [1,2,-1,-1,-1,100]
-```
+Assuma que as matrizes `M` e `N` são multiplicáveis, i.e., que o número de
+colunas de `M` é igual ao número de linhas de `N`.
