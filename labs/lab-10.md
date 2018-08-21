@@ -26,10 +26,12 @@ Seguem arquivos em anexo...
 
 A operação `random.randrange(0,2)` retorna `0` ou `1` aleatoriamente, toda vez
 que é executada.
+É uma espécie de "cara ou coroa" em Python.
 Para usá-la, é preciso importar o módulo `random`:
 
 ```
-import random
+import random                       # inclua essa linha no topo do arquivo
+
 print(random.randrange(0,2))        # exibe 0 ou 1
 print(random.randrange(0,2))        # exibe 0 ou 1
 print(random.randrange(0,2))        # exibe 0 ou 1
