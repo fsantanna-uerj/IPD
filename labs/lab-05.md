@@ -3,6 +3,7 @@
 Roteiro 5: Simulado P1
 ======================
 
+<!--
 - Fazer todos os itens em um único arquivo, ex., `lab-05.py`.
 - Ao final, enviar um e-mail da seguinte forma:
     - *Para*: `francisco@ime.uerj.br`
@@ -19,6 +20,7 @@ Sim: 1 ao 3
 Não: 4
 Seguem arquivos em anexo...
 ```
+-->
 
 ## 1.
 

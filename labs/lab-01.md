@@ -3,6 +3,7 @@
 Roteiro 1: Introdução
 =====================
 
+<!--
 - Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
 - Ao final, enviar um e-mail da seguinte forma:
     - *Para*: `francisco@ime.uerj.br`
@@ -19,12 +20,13 @@ Sim: 1 ao 3
 Não: 4
 Seguem arquivos em anexo...
 ```
+-->
 
 1. Considere o programa a seguir em português:
 
 ```
 escreva("Qual a sua idade?")
-idade = leia()
+idade <- leia()
 se idade >= 18:
     escreva("Voce pode dirigr!")
 senao:
@@ -40,11 +42,11 @@ valores.
 3. Considere o programa a seguir em português:
 
 ```
-n = leia()
-v = 1
+n <- leia()
+v <- 1
 enquanto n > 0:
-    v = v * n
-    n = n - 1
+    v <- v * n
+    n <- n - 1
 escreva("A resposta foi", v)
 ```
 
