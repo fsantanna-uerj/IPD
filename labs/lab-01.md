@@ -3,26 +3,52 @@
 Roteiro 1: Introdução
 =====================
 
-<!--
-- Fazer todos os itens em um único arquivo, ex., `lab-01.py`.
-- Ao final, enviar um e-mail da seguinte forma:
-    - *Para*: `francisco@ime.uerj.br`
-    - Enviar uma cópia para o seu e-mail.
-      **Ao desligar, todos os arquivos são removidos do computador.**
-    - *Assunto*: IPD, lab-01, João da Silva
-    - *Anexos*:
-        - `lab-01.py`
-        - Para cada item, um *print screen* da tela de edição e outro da tela de execução
-    - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
+1. Traduza o programa a seguir de Português para Python:
 
 ```
-Sim: 1 ao 3
-Não: 4
-Seguem arquivos em anexo...
+escreva("Qual a sua idade?")
+idade <- leia()
+exiba("Voce tem " + idade + " anos")
 ```
--->
 
-1. Considere o programa a seguir em português:
+2. Considere os dois comandos a seguir:
+
+```
+print("1" + "1")
+print(1 + 1)
+```
+
+Por quê os comandos exibem valores diferentes?
+
+3. Considere os três comandos a seguir:
+
+```
+print("1" == 1)
+print(int("1") == 1)
+print("1" == str(1))
+```
+
+- Por quê os comandos exibem valores diferentes?
+- Para que servem os comandos `int` e `str`?
+
+-------------------------------------------------------------------------------
+
+4. Crie um programa que leia um salário de uma pessoa e exiba o total a ser
+   recebido em um ano.
+
+5. Crie um programa que leia a idade de um pessoa e diga quantos anos faltam
+   para ela se aposentar.
+
+6. Crie um programa que leia a altura e peso de uma pessoa e exiba o seu índice
+   de massa corporal (IMC).
+    - O IMC é o peso em kg dividido pelo quadrado da altura em metros.
+
+7. Crie um programa que leia uma temperatura em Fahrenheit e a exiba em
+   Celsius.
+
+-------------------------------------------------------------------------------
+
+8. Traduza o programa a seguir de Português para Python:
 
 ```
 escreva("Qual a sua idade?")
@@ -33,13 +59,24 @@ senao:
     escreva("Voce ainda nao pode dirigr...")
 ```
 
-Traduza o programa para a linguagem Python e teste a sua execução com diversos
-valores.
+9. Crie um programa que leia a altura e peso de uma pessoa, calcule o seu IMC e
+   exiba a sua situação de saúde de acordo com a tabela a seguir:
 
-2. Escreva um programa em Python que leia uma temperatura em Fahrenheit e a
-   exiba em Celsius.
+```
+IMC                 SITUAÇÃO
+-------------------------------------------
+Abaixo de 17 	    Muito abaixo do peso
+Entre 17 e 18,49 	Abaixo do peso
+Entre 18,5 e 24,99 	Peso normal
+Entre 25 e 29,99 	Acima do peso
+Entre 30 e 34,99 	Obesidade I
+Entre 35 e 39,99 	Obesidade II (severa)
+Acima de 40 	    Obesidade III (mórbida)
+```
 
-3. Considere o programa a seguir em português:
+<!--
+
+10. Considere o programa a seguir em Português:
 
 ```
 n <- leia()
@@ -66,3 +103,4 @@ escreva("A resposta foi", v)
 16
 25
 ```
+-->
