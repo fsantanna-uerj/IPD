@@ -45,11 +45,11 @@ o momento.
 Considere o programa a seguir:
 
 ```
-n1 = input()
-n2 = input()
-n3 = input()
+n1 = int(input())
+n2 = int(input())
+n3 = int(input())
 while n1 > 0:
-    print "n2", n2
+    print("n2", n2)
     v = n3
     while v > 0:
         n2 = n2 + 1

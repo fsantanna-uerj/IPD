@@ -49,8 +49,8 @@ Crie um programa que leia a velocidade atual do carro em mph e escreva na tela
 Considere o programa a seguir:
 
 ```
-n1 = input()
-n2 = input()
+n1 = int(input())
+n2 = int(input())
 q = 0
 while n1 >= n2:
     q = q + 1

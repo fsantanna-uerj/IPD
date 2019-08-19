@@ -72,9 +72,9 @@ Crie um programa que
 Considere o programa a seguir:
 
 ```
-print "Seja Bem-vindo..."
-n1 = input()
-n2 = input()
+print("Seja Bem-vindo...")
+n1 = int(input())
+n2 = int(input())
 r1 = 0
 while n1 >= 0:
     c1 = 1
@@ -82,10 +82,10 @@ while n1 >= 0:
         n1 = n1 - 1
         c1 = c1 + 1
     r1 = r1 + 1
-    print "n1", n1, "r1", r1
+    print("n1", n1, "r1", r1)
 r1 = r1 - 1
 r2 = n1 + n2
-print "A resposta é ", r1, r2
+print("A resposta é ", r1, r2)
 ```
 
 Considere que, para o programa acima, o usuário digitou os números a seguir:
