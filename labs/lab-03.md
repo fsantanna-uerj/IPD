@@ -33,6 +33,27 @@ Faça um programa que leia 10 números e, ao final, exiba o maior deles.
 
 ## 3.
 
+- Leia números continuamente.
+    - Assuma que só serão digitados números maiores que 0.
+- Termine quando ler um número menor que o anterior.
+- Exiba o maior valor lido.
+
+## 4.
+
+- Leia números continuamente.
+    - Assuma que só serão digitados números maiores que 0.
+- Termine quando ler um número menor que o anterior.
+- Exiba a soma de todos os valores lidos.
+
+
+## 5.
+
+- Leia 10 números
+    - Assuma que só serão digitados números maiores que 0.
+- Exiba o maior valor lido
+
+## 6.
+
 O Campeonato Brasileiro está na reta final com 20 times na disputa.
 Uma vitória vale 3 pontos, um empate vale 1 ponto e uma derrota vale 0 pontos.
 Escreva um programa que, para cada time, leia o nome, número de vitórias,
@@ -40,7 +61,7 @@ número de empates e número de derrotas.
 Ao final, o programa deve escrever o nome dos times com mais e menos pontos até
 o momento.
 
-## 4.
+## 7.
 
 Considere o programa a seguir:
 
