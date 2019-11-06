@@ -34,21 +34,21 @@ Seguem arquivos em anexo...
     | 7 8 9 |
     ```
     - exibir a matriz
-    - exibir o número de linhas da matriz (assuma que `m1` pode ter diversos formatos).
-    - exibir o número de colunas da matriz
+    - exibir a quantidade de linhas da matriz (assuma que `m1` pode ter diversos formatos).
+    - exibir a quantidade de colunas da matriz
     - exibir a 3a coluna da 2a linha da matriz (deve exibir o valor *6*)
 2. .
     - criar uma matriz `m2` com `L` linhas e 2 colunas com todos os elementos zerados
-    - ler do teclado o número de linhas `L`
+    - ler do teclado a quantidade de linhas `L`
     - exibir a matriz
 3. .
     - criar uma matriz `m3` `L` x `C` com todos os elementos zerados
-    - ler do teclado o número de linhas `L` e colunas `C`
+    - ler do teclado a quantidade de linhas `L` e colunas `C`
     - exibir a matriz
     - (precisa de *loops* aninhados)
 4. .
     - criar uma matriz `m4` vazia
-    - ler do teclado o número de linhas `L` e colunas `C`
+    - ler do teclado a quantidade de linhas `L` e colunas `C`
     - ler do teclado cada um dos `L` x `C` valores da matriz
     - exibir a matriz
     - (precisa de *loops* aninhados)
