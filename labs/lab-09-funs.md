@@ -97,6 +97,6 @@ print(r2)
             - some ao código o valor da chave
             - transforme o resultado de volta para um (novo) caractere
 9. .
-    - definir uma função `descriptografa` que receve uma string criptografada
+    - definir uma função `descriptografa` que recebe uma string criptografada
       e uma chave, e retorna a string original
     - usar o mesmo mecanismo da questão anterior
