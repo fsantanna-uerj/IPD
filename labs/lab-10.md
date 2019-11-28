@@ -3,25 +3,6 @@
 Roteiro 10: Simulado P2
 =======================
 
-<!--
-- Fazer todos os itens em um único arquivo, ex., `lab-10.py`.
-- Ao final, enviar um e-mail da seguinte forma:
-    - *Para*: `francisco@ime.uerj.br`
-    - Enviar uma cópia para o seu e-mail.
-      **Ao desligar, todos os arquivos são removidos do computador.**
-    - *Assunto*: IPD, lab-10, João da Silva
-    - *Anexos*:
-        - `lab-10.py`
-        - Para cada item, um *print screen* da tela de edição e outro da tela de execução
-    - *Corpo*: Enumerar os exercícios que foram e não foram feitos, ex.:
-
-```
-Sim: 1 ao 3
-Não: 4
-Seguem arquivos em anexo...
-```
--->
-
 ## 1.
 
 A operação `random.randrange(0,2)` retorna `0` ou `1` aleatoriamente, toda vez
@@ -66,8 +47,22 @@ Assuma que só aparecem letras minúsculas na frase.
 
 ## 3.
 
+Crie uma função `inverte` que recebe uma string e retorne uma nova string com
+as caixas invertidas (maiúscula vira minúscula e minúscula vira maiúscula).
+Os caracteres que não forem letras devem ser mantidos.
+
+Exemplo:
+
+```
+inverte("Ola, Tudo bem?")   # retorna "oLA, tUDO BEM?"
+```
+
+## 4.
+
 Crie um programa que, a partir de matrizes `M` e `N` quaisquer, calcule a
 matriz produto `P` entre elas.
 
 Assuma que as matrizes `M` e `N` são multiplicáveis, i.e., que o número de
 colunas de `M` é igual ao número de linhas de `N`.
+
+- Dica: Tente primeiro multiplicar uma matriz `1xN` por uma `Nx1`.
