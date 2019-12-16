@@ -47,9 +47,9 @@ Assuma que só aparecem letras minúsculas na frase.
 
 ## 3.
 
-Crie uma função `inverte` que recebe uma string e retorne uma nova string com
+Crie uma função `inverte` que recebe uma string e retorna uma nova string com
 as caixas invertidas (maiúscula vira minúscula e minúscula vira maiúscula).
-Os caracteres que não forem letras devem ser mantidos.
+Os caracteres que não forem letras devem ser preservados.
 
 Exemplo:
 
